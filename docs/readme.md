@@ -61,7 +61,7 @@ Telegram.Bot (https://github.com/TelegramBots/Telegram.Bot) — официаль
 
 123456789:ABCDefGhIJKLmNoPQRsTUVwxyZ
 
-![](![1](https://github.com/user-attachments/assets/377fb62f-d7d0-45e8-bfb2-2983e1ac750a))
+![](![1](https://github.com/user-attachments/assets/377fb62f-d7d0-45e8-bfb2-2983e1ac750a)
 
 **Шаг 2: Создание проекта**
 
